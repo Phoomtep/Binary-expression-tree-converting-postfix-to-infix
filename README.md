@@ -1,4 +1,4 @@
-# Postfix-to-Infix
+# Binary expression tree converting postfix to infix
 
 Developed by Phoomtep Pitakamnuay
 
